@@ -1,0 +1,16 @@
+C:\Users\wilfried\source\repos\projet_dot_net00\projet_dot_net\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+C:\Users\wilfried\source\repos\projet_dot_net00\projet_dot_net\obj\Debug\netcoreapp3.1\staticwebassets\App.StaticWebAssets.Manifest.cache
+C:\Users\wilfried\source\repos\projet_dot_net00\projet_dot_net\obj\Debug\netcoreapp3.1\staticwebassets\App.StaticWebAssets.xml
+C:\Users\wilfried\source\repos\projet_dot_net00\projet_dot_net\obj\Debug\netcoreapp3.1\App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wilfried\source\repos\projet_dot_net00\projet_dot_net\obj\Debug\netcoreapp3.1\App.RazorAssemblyInfo.cache
+C:\Users\wilfried\source\repos\projet_dot_net00\projet_dot_net\obj\Debug\netcoreapp3.1\App.RazorAssemblyInfo.cs
+C:\Users\wilfried\source\repos\projet_dot_net00\projet_dot_net\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Users\wilfried\source\repos\projet_dot_net00\projet_dot_net\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\Users\wilfried\source\repos\projet_dot_net\projet_dot_net\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+C:\Users\wilfried\source\repos\projet_dot_net\projet_dot_net\obj\Debug\netcoreapp3.1\staticwebassets\App.StaticWebAssets.Manifest.cache
+C:\Users\wilfried\source\repos\projet_dot_net\projet_dot_net\obj\Debug\netcoreapp3.1\staticwebassets\App.StaticWebAssets.xml
+C:\Users\wilfried\source\repos\projet_dot_net\projet_dot_net\obj\Debug\netcoreapp3.1\App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wilfried\source\repos\projet_dot_net\projet_dot_net\obj\Debug\netcoreapp3.1\App.RazorAssemblyInfo.cache
+C:\Users\wilfried\source\repos\projet_dot_net\projet_dot_net\obj\Debug\netcoreapp3.1\App.RazorAssemblyInfo.cs
+C:\Users\wilfried\source\repos\projet_dot_net\projet_dot_net\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Users\wilfried\source\repos\projet_dot_net\projet_dot_net\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
